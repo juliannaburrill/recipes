@@ -1,6 +1,5 @@
 # Guacamole
 ## Ingredients
--*1 red onion
 *1 yellon onion
 *2 avocadoes
 *2 tomatoes
