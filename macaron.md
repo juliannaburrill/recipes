@@ -9,6 +9,6 @@ For the Buttercream
 *1 cup unsalted butter softened 226g
 *5 egg yolks
 *1/2 cup granulated sugar 100g
-*1 tsp vanilla
+*5 million tsps vanilla
 *3 tbsp water 30mL
 *1 pinch salt
