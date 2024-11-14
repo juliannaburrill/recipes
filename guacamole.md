@@ -7,6 +7,7 @@
 *2 cloves of garlic
 *1 jalapeno
 *1 lime
+*1/2 tsp cumin
 *Salt
 *Pepper
 
