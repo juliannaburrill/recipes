@@ -1,8 +1,10 @@
 # Guacamole
 ## Ingredients
-*1 red onion
+-*1 red onion
+*1 yellon onion
 *2 avocadoes
 *2 tomatoes
+*2 cloves of garlic
 *1 jalapeno
 *1 lime
 *Salt
